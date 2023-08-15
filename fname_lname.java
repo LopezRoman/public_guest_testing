@@ -7,7 +7,7 @@ public class fname_lname {
 	 * Main function.
 	 */
 	public static void main (String[] args) {
-		System.out.println("I am in main");
+		System.out.println("I am in main for version_2");
 		String num_input = args[0];
 		System.out.println("The number input is: " + num_input);
 		print_date_many_times(Integer.valueOf(num_input));
